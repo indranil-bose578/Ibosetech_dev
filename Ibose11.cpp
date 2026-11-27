@@ -1,4 +1,4 @@
-//wap in c to find the largest number in a an array input will be user input//
+//wap in c to find the biggest number in a an array input will be user input//
 #include <stdio.h>
 
 int main()
